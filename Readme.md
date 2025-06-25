@@ -102,14 +102,19 @@ Email notification of reports
 
     Plugin support (e.g. NSE scripts, vulnerability scanning)
 
+
 👨‍💻 Author
 
 NmapX was built with ❤️ using Python and Nmap
 Customizable for any Red Team or Blue Team workflow
+
+
 🛡️ Disclaimer
 
 This tool is for educational and authorized security testing only.
 Unauthorized scanning is illegal and unethical.
+
+
 📜 License
 
 MIT License — free to use, modify, and share.
