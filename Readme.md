@@ -113,8 +113,3 @@ Unauthorized scanning is illegal and unethical.
 📜 License
 
 MIT License — free to use, modify, and share.
-
-
----
-
-Would you like a logo image or badge icons (like "Made with Python", "MIT License", etc.) included 
